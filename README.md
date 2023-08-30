@@ -1,1 +1,2 @@
 # Face_recognition
+Face recognition using OpenCV involves detecting faces in images or videos, extracting facial features, and comparing them with stored data for identification or authentication purposes. OpenCV provides tools for face detection, feature extraction, and matching, enabling the development of face recognition applications.In this firstt we have to collect the data using datacollect.py and then we can recognize that person using opcv file.
